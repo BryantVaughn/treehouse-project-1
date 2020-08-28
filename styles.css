@@ -99,6 +99,13 @@ header .profile-image:hover {
 .card:hover {
 	border-color: #ff9904;
 }
+.card a {
+	color: gray;
+	transition: all 0.5s;
+}
+.card a:hover {
+	color: #ff9904;
+}
 
 ul.skills {
 	padding: 0;
