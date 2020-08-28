@@ -60,8 +60,8 @@ header {
 	background: url('images/denver.jpg') no-repeat top center;
 	background-size: cover;
 	overflow: hidden;
-	height: 700px;
-	padding-top: 120px;
+	height: 600px;
+	padding-top: 100px;
 }
 header {
 	line-height: 1.5;
