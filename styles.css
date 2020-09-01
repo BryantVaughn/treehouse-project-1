@@ -129,6 +129,19 @@ ul.skills {
 	margin-bottom: 10px;
 }
 
+.images {
+	width: 90%;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-evenly;
+	margin: auto;
+}
+.images img {
+	width: 170px;
+	height: 150px;
+	border-radius: 5px;
+}
+
 footer {
 	width: 100%;
 	min-height: 30px;
